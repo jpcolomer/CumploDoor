@@ -11,4 +11,4 @@ npm install
 NODE_ENV=development npm start
 ```
 
-Luego puedes visitar el servidor en [127.0.0.1:4000](127.0.0.1:4000)
+Luego puedes visitar el servidor en [127.0.0.1:4000](http://127.0.0.1:4000)
